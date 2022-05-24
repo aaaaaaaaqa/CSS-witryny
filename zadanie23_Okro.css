@@ -1,0 +1,32 @@
+p#pogrubienie_okroj {
+	font-size: 30px;
+	color: #8A5ED4;
+}
+
+p#pochylona_okroj {
+	font-size: 35pt;
+	color: #EEC270;
+}
+
+p#index_gorny_okroj {
+	font-size: 1cm;
+	color: #9E9020;
+}
+
+p#index_dolny_okroj {
+	font-size: 1,5cm;
+	color: rgb(88%, 36%, 67%);
+}
+
+p#mono_okroj {
+	font-size: 40px;
+	color: #1EE070;
+}
+
+p#powiekszenie_okroj {
+	color: #584070;
+}
+
+p#pomniejszenie_okroj {
+	color: rgb(40%, 70%, 40%);
+}
