@@ -1,0 +1,13 @@
+h3
+{
+    width: 400pt;
+    height: 4cm;
+    background-color: #FF1493;
+    border-style: double;
+    border-color:#C0C0C0;
+    margin-top: 5%;
+    margin-left:10%;
+    margin-bottom: 5%;
+    font-size: 18px;
+    padding: 20px;
+}    
